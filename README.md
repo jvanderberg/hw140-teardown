@@ -32,6 +32,8 @@ The board includes an LCD display, adjustable CV/CC control via trimpots, revers
 
 The original NCE6075K was destroyed during stress testing. It was replaced with an [Infineon IRLZ44N](https://www.infineon.com/assets/row/public/documents/24/49/infineon-irlz44n-datasheet-en.pdf?fileId=5546d462533600a40153567217c32725) (55V/47A, logic-level). Lower current rating, but fully enhanced at the 5V gate drive this board provides.
 
-## Files
+## Schematic
+
+![HW-140 Schematic](schematic.png)
 
 The KiCad schematic (`hw140.kicad_sch`) is a reverse-engineered approximation of the power stage, traced from the PCB.
