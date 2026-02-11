@@ -34,6 +34,6 @@ The original NCE6075K was destroyed during stress testing. It was replaced with 
 
 ## Schematic
 
-![HW-140 Schematic](schematic.png)
+![HW-140 Schematic](kicad-schematic.png)
 
 The KiCad schematic (`hw140.kicad_sch`) is a reverse-engineered approximation of the power stage, traced from the PCB.
