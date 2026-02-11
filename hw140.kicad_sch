@@ -6346,7 +6346,6 @@
 	(symbol
 		(lib_id "Transistor_FET:IRLZ44N")
 		(at 133.35 91.44 0)
-		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6354,7 +6353,7 @@
 		(dnp no)
 		(uuid "ee8e7dd6-217f-4ed3-927d-46c807bbc0e6")
 		(property "Reference" "Q4"
-			(at 139.446 90.932 0)
+			(at 139.446 91.948 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6363,7 +6362,7 @@
 			)
 		)
 		(property "Value" "NCE6075k"
-			(at 137.414 93.726 0)
+			(at 137.414 89.154 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6372,7 +6371,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:TO-252-2"
-			(at 138.43 89.535 0)
+			(at 138.43 93.345 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6383,7 +6382,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/C110912.pdf"
-			(at 138.43 87.63 0)
+			(at 138.43 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6411,7 +6410,7 @@
 			(uuid "7224d27f-4a52-47a7-aa5f-e093babda8f9")
 		)
 		(instances
-			(project ""
+			(project "hw140"
 				(path "/475ab2b5-d626-4c42-995d-fb9fe70106f6"
 					(reference "Q4")
 					(unit 1)
